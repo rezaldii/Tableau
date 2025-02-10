@@ -1,6 +1,6 @@
 # King County House Sales Dashboard
 
-![Tableau Dashboard Screenshot](https://public.tableu.com/views/Tableau1_17391980454190/KingCountryHouseSales/1_Tableau.png?%3AshowVizHome=no)
+![Tableau Dashboard Screenshot](https://github.com/user-attachments/assets/421a9a47-f42d-4b91-8666-08845c753b8c)
 
 Sebuah dashboard interaktif untuk menganalisis data penjualan rumah di King County (2014-2015)
 
@@ -32,7 +32,7 @@ Memfilter data berdasarkan rentang tanggal transaksi (Mei 2014 - Mei 2015)
 
 ## 📁 Dataset
 Menggunakan dataset King County House Sales dari:
-[https://github.com/mochen862/king-county-house-sales.git](https://github.com/mochen862/king-county-house-sales.git)
+[Dataset](https://github.com/mochen862/king-county-house-sales.git)
 
 ## 🛠️ Tutorial Pembuatan
 
@@ -45,7 +45,7 @@ Proses mencakup:
 
 ## 🌐 Akses Dashboard
 Dashboard dapat diakses secara live di:
-[https://public.tableau.com/views/Tableau1_17391980454190/KingCountryHouseSales](https://public.tableau.com/views/Tableau1_17391980454190/KingCountryHouseSales)
+[Tableau Public](https://public.tableau.com/views/Tableau1_17391980454190/KingCountryHouseSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 💻 Teknologi
 - Tableau Public (versi desktop untuk development)
